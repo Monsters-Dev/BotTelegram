@@ -11,3 +11,5 @@ Readable and easy: Writing code with TGX is neat and beautiful, and other people
 Very fast and editable: You can easily change the robot database by clicking on the inline buttons and also know the full status of the server in the robot.
 </br> </br>
 Optimum : Strong server, high speed - Weak server, Optimum speed
+</br> </br> 
+Short code: You can specify the recipient at the beginning of the code and specify the function at the end of the code

@@ -21,3 +21,8 @@ Short code: You can specify the recipient at the beginning of the code and speci
 }
 $Coins = Database::Get($from_id,"coins"); //Result 100
 </code></pre>
+## Send Message :
+<pre><code>Data::chat_id($from_id);
+Data::text("Hi.. 😃");
+Connect::SendMessage();
+</code></pre>

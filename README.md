@@ -13,3 +13,11 @@ Very fast and editable: You can easily change the robot database by clicking on 
 Optimum : Strong server, high speed - Weak server, Optimum speed
 </br> </br> 
 Short code: You can specify the recipient at the beginning of the code and specify the function at the end of the code
+</br> </br>
+
+## Save and Get Data :
+<pre><code>if(!Database::User_Exists($from_id)){
+      Database::Put($from_id,"coins",100);
+}
+$Coins = Database::Get($from_id,"coins"); //Result 100
+</code></pre>

@@ -1,6 +1,6 @@
-# Thanks For See Me 😃🖤
+# Thank you for reading me
 
-You can create a bot with `TGX`
+If you read this text for the first time, you need to know that this is a great opportunity for you to multiply your speed.
 
 ## why use `TGX`?
 

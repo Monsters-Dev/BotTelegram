@@ -1,6 +1,6 @@
 # Thanks For See Me 😃🖤
 
-You can with me... create your bot :)
+You can create a bot with me
 
 # why use me?
 
